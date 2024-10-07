@@ -1,0 +1,14 @@
+D:\Dotnet\Practice7\Practice7\bin\Debug\net8.0\Practice7.exe
+D:\Dotnet\Practice7\Practice7\bin\Debug\net8.0\Practice7.deps.json
+D:\Dotnet\Practice7\Practice7\bin\Debug\net8.0\Practice7.runtimeconfig.json
+D:\Dotnet\Practice7\Practice7\bin\Debug\net8.0\Practice7.dll
+D:\Dotnet\Practice7\Practice7\bin\Debug\net8.0\Practice7.pdb
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.AssemblyInfoInputs.cache
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.AssemblyInfo.cs
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.dll
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\refint\Practice7.dll
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.pdb
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\Practice7.genruntimeconfig.cache
+D:\Dotnet\Practice7\Practice7\obj\Debug\net8.0\ref\Practice7.dll

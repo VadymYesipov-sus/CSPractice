@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\Practice12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|d:\\dotnet\\practice12\\practice12\\citizeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|solutionrelative:practice12\\citizeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|d:\\dotnet\\practice12\\practice12\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|solutionrelative:practice12\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|d:\\dotnet\\practice12\\practice12\\governor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|solutionrelative:practice12\\governor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|d:\\dotnet\\practice12\\practice12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|solutionrelative:practice12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|d:\\dotnet\\practice12\\practice12\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183F28A-1F0D-431F-83F6-757C344986BC}|Practice12\\Practice12.csproj|solutionrelative:practice12\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Governor.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice12\\Practice12\\Governor.cs",
+              "RelativeDocumentMoniker": "Practice12\\Governor.cs",
+              "ToolTip": "D:\\Dotnet\\Practice12\\Practice12\\Governor.cs",
+              "RelativeToolTip": "Practice12\\Governor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:01:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profession.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice12\\Practice12\\Profession.cs",
+              "RelativeDocumentMoniker": "Practice12\\Profession.cs",
+              "ToolTip": "D:\\Dotnet\\Practice12\\Practice12\\Profession.cs",
+              "RelativeToolTip": "Practice12\\Profession.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA5wDcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:28:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitizenInfo.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice12\\Practice12\\CitizenInfo.cs",
+              "RelativeDocumentMoniker": "Practice12\\CitizenInfo.cs",
+              "ToolTip": "D:\\Dotnet\\Practice12\\Practice12\\CitizenInfo.cs",
+              "RelativeToolTip": "Practice12\\CitizenInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:26:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice12\\Practice12\\Citizen.cs",
+              "RelativeDocumentMoniker": "Practice12\\Citizen.cs",
+              "ToolTip": "D:\\Dotnet\\Practice12\\Practice12\\Citizen.cs",
+              "RelativeToolTip": "Practice12\\Citizen.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADgv0kAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:26:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice12\\Practice12\\Program.cs",
+              "RelativeDocumentMoniker": "Practice12\\Program.cs",
+              "ToolTip": "D:\\Dotnet\\Practice12\\Practice12\\Program.cs",
+              "RelativeToolTip": "Practice12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:57:41.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

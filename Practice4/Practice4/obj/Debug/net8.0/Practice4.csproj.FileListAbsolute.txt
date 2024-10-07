@@ -1,0 +1,14 @@
+D:\Dotnet\Practice4\Practice4\bin\Debug\net8.0\Practice4.exe
+D:\Dotnet\Practice4\Practice4\bin\Debug\net8.0\Practice4.deps.json
+D:\Dotnet\Practice4\Practice4\bin\Debug\net8.0\Practice4.runtimeconfig.json
+D:\Dotnet\Practice4\Practice4\bin\Debug\net8.0\Practice4.dll
+D:\Dotnet\Practice4\Practice4\bin\Debug\net8.0\Practice4.pdb
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.AssemblyInfoInputs.cache
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.AssemblyInfo.cs
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.dll
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\refint\Practice4.dll
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.pdb
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\Practice4.genruntimeconfig.cache
+D:\Dotnet\Practice4\Practice4\obj\Debug\net8.0\ref\Practice4.dll

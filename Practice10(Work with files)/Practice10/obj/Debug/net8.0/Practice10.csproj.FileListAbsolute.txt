@@ -1,0 +1,14 @@
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.AssemblyInfoInputs.cache
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.AssemblyInfo.cs
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice10\Practice10\bin\Debug\net8.0\Practice10.exe
+D:\Dotnet\Practice10\Practice10\bin\Debug\net8.0\Practice10.deps.json
+D:\Dotnet\Practice10\Practice10\bin\Debug\net8.0\Practice10.runtimeconfig.json
+D:\Dotnet\Practice10\Practice10\bin\Debug\net8.0\Practice10.dll
+D:\Dotnet\Practice10\Practice10\bin\Debug\net8.0\Practice10.pdb
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.dll
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\refint\Practice10.dll
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.pdb
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\Practice10.genruntimeconfig.cache
+D:\Dotnet\Practice10\Practice10\obj\Debug\net8.0\ref\Practice10.dll

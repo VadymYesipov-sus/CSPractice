@@ -1,0 +1,28 @@
+D:\Dotnet\Practice15\Practice15\bin\Debug\net8.0\Practice15.exe
+D:\Dotnet\Practice15\Practice15\bin\Debug\net8.0\Practice15.deps.json
+D:\Dotnet\Practice15\Practice15\bin\Debug\net8.0\Practice15.runtimeconfig.json
+D:\Dotnet\Practice15\Practice15\bin\Debug\net8.0\Practice15.dll
+D:\Dotnet\Practice15\Practice15\bin\Debug\net8.0\Practice15.pdb
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.AssemblyInfoInputs.cache
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.AssemblyInfo.cs
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.dll
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\refint\Practice15.dll
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.pdb
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\Practice15.genruntimeconfig.cache
+D:\Dotnet\Practice15\Practice15\obj\Debug\net8.0\ref\Practice15.dll
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\bin\Debug\net8.0\Practice15.exe
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\bin\Debug\net8.0\Practice15.deps.json
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\bin\Debug\net8.0\Practice15.runtimeconfig.json
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\bin\Debug\net8.0\Practice15.dll
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\bin\Debug\net8.0\Practice15.pdb
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.AssemblyInfoInputs.cache
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.AssemblyInfo.cs
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.dll
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\refint\Practice15.dll
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.pdb
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\Practice15.genruntimeconfig.cache
+D:\Dotnet\Practice15(Generics, operator overload, enumerators and anonymouses)\Practice15\obj\Debug\net8.0\ref\Practice15.dll

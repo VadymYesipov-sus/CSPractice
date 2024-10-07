@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\Practice10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D307075-9E39-46E3-9D5E-162FCFA45C37}|Practice10\\Practice10.csproj|d:\\dotnet\\practice10\\practice10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D307075-9E39-46E3-9D5E-162FCFA45C37}|Practice10\\Practice10.csproj|solutionrelative:practice10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Practice10\\Practice10\\Program.cs",
+              "RelativeDocumentMoniker": "Practice10\\Program.cs",
+              "ToolTip": "D:\\Dotnet\\Practice10\\Practice10\\Program.cs",
+              "RelativeToolTip": "Practice10\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwFsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:45:49.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

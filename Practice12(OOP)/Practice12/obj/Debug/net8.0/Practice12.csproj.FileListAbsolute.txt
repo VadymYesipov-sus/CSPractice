@@ -1,0 +1,14 @@
+D:\Dotnet\Practice12\Practice12\bin\Debug\net8.0\Practice12.exe
+D:\Dotnet\Practice12\Practice12\bin\Debug\net8.0\Practice12.deps.json
+D:\Dotnet\Practice12\Practice12\bin\Debug\net8.0\Practice12.runtimeconfig.json
+D:\Dotnet\Practice12\Practice12\bin\Debug\net8.0\Practice12.dll
+D:\Dotnet\Practice12\Practice12\bin\Debug\net8.0\Practice12.pdb
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.AssemblyInfoInputs.cache
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.AssemblyInfo.cs
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.dll
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\refint\Practice12.dll
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.pdb
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\Practice12.genruntimeconfig.cache
+D:\Dotnet\Practice12\Practice12\obj\Debug\net8.0\ref\Practice12.dll
